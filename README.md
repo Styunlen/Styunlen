@@ -1,6 +1,29 @@
-🙋 Hello 
+<div align="center">
+<h1>🎉 Hello, Welcome To Styunlen's Github Homepage! 🎉</h1>
+</div>
+<div align="center">
+<table align="center">
+  <tr>
+    <td rowspan="2"><img width="300" src="http://styunlen.cn/wp-content/uploads/2021/06/hello.png"></td>
+    <td align="center">
+    🙋 Hi, I’m  
+    <a href=https://styunlen.cn/" target="_blank">Styunlen</a>.  <br/>
+    😁 Glad to see you!
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+      Vistor count<br/>
+      <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=styunlen.readme" />
+    </td>
+  </td>
+</table>
+
+
+</div>
+
 ---
-- 👋 Hi, I’m [@Styunlen](https://styunlen.cn/)
+
 - 👀 I’m interested in everything about coding and any creative activity
 - 🌱 I’m currently learning...No,I'm slack in,hhh.
   > Back to this.Here is a list of some commands what I'm frequently typing now.Guess what I'm learning lately
@@ -42,11 +65,6 @@ You can click the Preview link to take a look at your changes.
 ### 😊 <a href="https://styunlen.cn/" target="_blank">Recent Blog</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://styunlen.cn/archives/post-1535.html' target='_blank'>使用tinyproxy搭建代理服务器来加速访问github</a> - 
-* <a href='https://styunlen.cn/archives/post-1527.html' target='_blank'>typeorm运行cli报错Unexpected identifier</a> - 
-* <a href='https://styunlen.cn/archives/post-1525.html' target='_blank'>Javascript ES6遍历对象属性的方法</a> - 
-* <a href='https://styunlen.cn/archives/post-1523.html' target='_blank'>vue3.0路由函数useRouter异常</a> - Sat, 19 Nov 2022 10:06:00 +0000
-* <a href='https://styunlen.cn/archives/post-1519.html' target='_blank'>electron-vite项目中vue文件的图片引用问题</a> - 
 <!-- END_SECTION:blog -->
   
 </td>
