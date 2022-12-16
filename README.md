@@ -65,16 +65,11 @@ You can click the Preview link to take a look at your changes.
 ### 😊 <a href="https://styunlen.cn/" target="_blank">Recent Blog</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://styunlen.cn/archives/post-1535.html' target='_blank'>使用tinyproxy搭建代理服务器来加速访问github</a> - 2022-12-06 23:57
-* <a href='https://styunlen.cn/archives/post-1527.html' target='_blank'>typeorm运行cli报错Unexpected identifier</a> - 2022-11-29 11:11
-* <a href='https://styunlen.cn/archives/post-1525.html' target='_blank'>Javascript ES6遍历对象属性的方法</a> - 2022-11-22 11:05
-* <a href='https://styunlen.cn/archives/post-1523.html' target='_blank'>vue3.0路由函数useRouter异常</a> - 2022-11-19 18:06
-* <a href='https://styunlen.cn/archives/post-1519.html' target='_blank'>electron-vite项目中vue文件的图片引用问题</a> - 2022-11-17 16:43
 <!-- END_SECTION:blog -->
   
 </td>
 </tr>
 </table>
-<img width="1000" src="https://metrics.lecoq.io/styunlen?template=classic&base.indepth=true&lines=1&calendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2Cpercentage&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=301&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai&config.display=large" /> <br/>
+<img align="center" src="/github-metrics.svg" alt="Metrics"> <br/>
 
 </div>
