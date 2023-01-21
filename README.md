@@ -65,11 +65,11 @@ You can click the Preview link to take a look at your changes.
 ### 😊 <a href="https://styunlen.cn/" target="_blank">Recent Blog</a>
   
 <!-- START_SECTION:blog -->
+* <a href='https://styunlen.cn/archives/post-1564.html' target='_blank'>工程化前端神器—— husky + eslint + prettier – 提升前端代码质量指南</a> - 2023-01-20 11:25
 * <a href='https://styunlen.cn/archives/post-1562.html' target='_blank'>align-content 不生效？区分align-content和align-items</a> - 2023-01-17 23:23
 * <a href='https://styunlen.cn/archives/post-1557.html' target='_blank'>突然翻出了备份文件夹</a> - 2022-12-27 21:13
 * <a href='https://styunlen.cn/archives/post-1544.html' target='_blank'>package.json中的版本号限定符</a> - 2022-12-20 18:45
 * <a href='https://styunlen.cn/archives/post-1535.html' target='_blank'>使用tinyproxy搭建代理服务器来加速访问github</a> - 2022-12-06 23:57
-* <a href='https://styunlen.cn/archives/post-1527.html' target='_blank'>typeorm运行cli报错Unexpected identifier</a> - 2022-11-29 11:11
 <!-- END_SECTION:blog -->
   
 </td>
