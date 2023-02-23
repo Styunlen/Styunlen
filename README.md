@@ -65,11 +65,11 @@ You can click the Preview link to take a look at your changes.
 ### 😊 <a href="https://styunlen.cn/" target="_blank">Recent Blog</a>
   
 <!-- START_SECTION:blog -->
+* <a href='https://styunlen.cn/archives/post-1627.html' target='_blank'>[星球打卡] ES6 有哪些新特性？</a> - 2023-02-22 17:01
 * <a href='https://styunlen.cn/archives/post-1620.html' target='_blank'>[星球打卡] JavaScript 中如何中止网络请求？</a> - 2023-02-21 11:43
 * <a href='https://styunlen.cn/archives/post-1618.html' target='_blank'>[星球打卡] CSS 选择器有哪些？优先级分别是什么？</a> - 2023-02-21 11:40
 * <a href='https://styunlen.cn/archives/post-1614.html' target='_blank'>【原创小说】逆熵·再见了，反方向的钟</a> - 2023-02-06 21:45
 * <a href='https://styunlen.cn/archives/post-1610.html' target='_blank'>复盘之从零开始完成编程导航报名考核任务</a> - 2023-02-06 11:23
-* <a href='https://styunlen.cn/archives/post-1564.html' target='_blank'>工程化前端神器—— husky + eslint + prettier – 提升前端代码质量指南</a> - 2023-01-20 11:25
 <!-- END_SECTION:blog -->
   
 </td>
