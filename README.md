@@ -56,10 +56,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <div align="center">
-<img width="500" src="https://streak-stats.demolab.com?user=styunlen&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j" /> <br/>
-<img width="500" src="https://github-readme-activity-graph.cyclic.app/graph?username=Styunlen&area=true&hide_border=true&theme=vue&bg_color=ffffff" /> <br/>
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=Styunlen&show_icons=true&theme=vue&count_private=true" alt="Github Stats"/> <br/>
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styunlen&theme=vue&layout=compact" alt="Most Used Languages"/>
+<img width="360" src="https://streak-stats.demolab.com?user=styunlen&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j" />
+<img width="360" src="https://github-readme-activity-graph.cyclic.app/graph?username=Styunlen&area=true&hide_border=true&theme=vue&bg_color=ffffff" /> <br/>
+<img width="395" src="https://github-readme-stats.vercel.app/api?username=Styunlen&show_icons=true&theme=vue&count_private=true" alt="Github Stats"/>
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styunlen&theme=vue&layout=compact" alt="Most Used Languages"/>
 
                                                                                                                                                    
 <table align="center">
