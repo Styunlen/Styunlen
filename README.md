@@ -58,6 +58,10 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <img width="500" src="https://streak-stats.demolab.com?user=styunlen&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j" />
 <img width="500" src="https://github-readme-activity-graph.cyclic.app/graph?username=Styunlen&area=true&hide_border=true&theme=vue&bg_color=ffffff" /><br />
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=Styunlen&show_icons=true&theme=vue&count_private=true" alt="Github Stats"/>
+<img width="379" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styunlen&theme=vue&layout=compact" alt="Most Used Languages"/>
+
+                                                                                                                                                   
 <table align="center">
 <tr>
 <td valign="top">    
@@ -75,6 +79,7 @@ You can click the Preview link to take a look at your changes.
 </td>
 </tr>
 </table>
-<img align="center" src="/github-metrics.svg" alt="Metrics"> <br/>
+                                                     
+<img align="center" src="https://raw.githubusercontent.com/Styunlen/Styunlen/main/github-metrics.svg" alt="Metrics"> <br/>
 
 </div>
