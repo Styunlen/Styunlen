@@ -14,7 +14,7 @@
   <tr>
   <td align="center">
       Vistor count<br/>
-      <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=styunlen.readme" />
+      <img align="center" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fstyunlen%2Fstyunlen.json%3Fcolor%3Dblue&label=visitors&style=flat-square" />
     </td>
   </td>
 </table>
@@ -26,7 +26,7 @@
 
 - 👀 I’m interested in everything about coding and any creative activity
 - 🌱 I’m currently learning...No,I'm slack in,hhh.
-  > Back to this.Here is a list of some commands what I'm frequently typing now.Guess what I'm learning lately
+  > Back to this.Here is a list of some commands that I'm frequently typing now.Guess what I'm learning lately
   > ```
   > make
   > g++
