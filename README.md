@@ -69,11 +69,11 @@ You can click the Preview link to take a look at your changes.
 ### 😊 <a href="https://styunlen.cn/" target="_blank">Recent Blog</a>
   
 <!-- START_SECTION:blog -->
+* <a href='https://styunlen.cn/archives/post-1660.html' target='_blank'>ThinkBook 16 2024 Ubuntu驱动问题解决</a> - 2024-03-15 16:32
 * <a href='https://styunlen.cn/archives/post-1656.html' target='_blank'>[Nest + Prisma + Graphql] 三种方式打包部署nestjs应用时的问题记录</a> - 2023-11-15 21:10
 * <a href='https://styunlen.cn/archives/post-1645.html' target='_blank'>2023&1024</a> - 2023-10-24 20:48
 * <a href='https://styunlen.cn/archives/post-1632.html' target='_blank'>[星球打卡] React Hooks</a> - 2023-03-03 20:16
 * <a href='https://styunlen.cn/archives/post-1627.html' target='_blank'>[星球打卡] ES6 有哪些新特性？</a> - 2023-02-22 17:01
-* <a href='https://styunlen.cn/archives/post-1620.html' target='_blank'>[星球打卡] JavaScript 中如何中止网络请求？</a> - 2023-02-21 11:43
 <!-- END_SECTION:blog -->
   
 </td>
