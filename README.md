@@ -14,7 +14,7 @@
   <tr>
   <td align="center">
       Vistor count<br/>
-      <img align="center" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fstyunlen%2Fstyunlen.json%3Fcolor%3Dblue&label=visitors&style=flat-square" />
+      <img align="center" src="https://hits.dwyl.com/styunlen/styunlen.svg?style=flat-square" />
     </td>
   </td>
 </table>
