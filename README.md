@@ -80,6 +80,5 @@ You can click the Preview link to take a look at your changes.
 </tr>
 </table>
                                                      
-<img align="center" src="https://raw.githubusercontent.com/Styunlen/Styunlen/main/github-metrics.svg" alt="Metrics"> <br/>
 
 </div>
