@@ -69,11 +69,11 @@ You can click the Preview link to take a look at your changes.
 ### 😊 <a href="https://styunlen.cn/" target="_blank">Recent Blog</a>
   
 <!-- START_SECTION:blog -->
+* <a href='https://styunlen.cn/archives/post-1696.html' target='_blank'>使用udisk来让Linux自动挂载USB硬盘和U盘</a> - 2024-10-29 23:25
+* <a href='https://styunlen.cn/archives/post-1679.html' target='_blank'>在Arch Liunx里只用Intel Ultra 7 155H跑stable-diffusion-webui</a> - 2024-06-28 15:32
 * <a href='https://styunlen.cn/archives/post-1670.html' target='_blank'>浙江财经大学校庆50周年之“三行代码作情诗”</a> - 2024-04-11 15:25
 * <a href='https://styunlen.cn/archives/post-1662.html' target='_blank'>windows下nginx-rtmp-module的编译方法</a> - 2024-03-29 14:38
 * <a href='https://styunlen.cn/archives/post-1660.html' target='_blank'>ThinkBook 16 2024 Ubuntu驱动问题解决</a> - 2024-03-15 16:32
-* <a href='https://styunlen.cn/archives/post-1656.html' target='_blank'>[Nest + Prisma + Graphql] 三种方式打包部署nestjs应用时的问题记录</a> - 2023-11-15 21:10
-* <a href='https://styunlen.cn/archives/post-1645.html' target='_blank'>2023&1024</a> - 2023-10-24 20:48
 <!-- END_SECTION:blog -->
   
 </td>
